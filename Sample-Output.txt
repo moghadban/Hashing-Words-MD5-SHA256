@@ -1,0 +1,51 @@
+(C:\ProgramData\Anaconda3) C:\PythonFolder\Hashing-Words-MD5-SHA256>python.exe Hashing-Words-with-Python.py
+
+         ======PROGRAME INFORMATION======
+
+                                 Name: Mojahed Ghadban
+                           Hashing Words with Python .
+                Description: Finding md5/sha256 hash values of list of words
+                             Usage: python.exe Hashing-Words-with-Python.py
+
+
+
+
+
+                         ========PROGRAME INPUT=========
+
+
+ Please enter a word to be hashed: This
+
+ Would you like to process another word? (Y/N): y
+
+ Please enter a word to be hashed: is
+
+ Would you like to process another word? (Y/N): Y
+
+ Please enter a word to be hashed: a
+
+ Would you like to process another word? (Y/N): y
+
+ Please enter a word to be hashed: Sample
+
+ Would you like to process another word? (Y/N): y
+
+ Please enter a word to be hashed: Output
+
+ Would you like to process another word? (Y/N): Y
+
+ Please enter a word to be hashed: !
+
+ Would you like to process another word? (Y/N): n
+
+
+
+
+
+                         ========PROGRAME OUTPUT========
+
+ - Word:md5 {'This': '77631ca4f0e08419b70726a447333ab6', 'is': 'a2a551a6458a8de22446cc76d639a9e9', 'a': '0cc175b9c0f1b6a831c399e269772661', 'Sample': 'c5dd1b2697720fe692c529688d3f4f8d', 'Output': '29c2c02a361c9d7028472e5d92cd4a54', '!': '9033e0e305f247c0c3c80d0c7848c8b3'} 
+ - Word:sha256 {'This': '86e1de74820a9b252ba33b2eed445b0cd02c445b5f4b8007205aff1762d7301a', 'is': 'fa51fd49abf67705d6a35d18218c115ff5633aec1f9ebfdc9d5d4956416f57f6', 'a': 'ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb', 'Sample': '95a2f1edb08a76120b82cec7c93ca477618639f04beac7d2aeba2dc039d43715', 'Output': 'b2439bcb8dee14b685f137f294b0e0cb62f5aadf45143ce01d79777d435a93b4', '!': 'bb7208bc9b5d7c04f1236a82a0093a5e33f40423d5ba8d4266f7092c3ba43b62'}
+
+
+                         ========END OF PROGRAME========
